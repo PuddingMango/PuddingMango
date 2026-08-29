@@ -72,7 +72,7 @@ AI와 Security의 접점에서
 
 <div align="center">
 
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuddingMango\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddingMango&show_icons=true&theme=tokyonight)
 
 </div>
 
