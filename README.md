@@ -68,16 +68,6 @@ AI와 Security의 접점에서
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddingMango&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
 ## ✨ Highlights
 
 ### 📚 AI Security Research
